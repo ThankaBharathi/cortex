@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "export_timestamp": 1768575677.9615505,
+    "export_date": "Fri Jan 16 15:01:17 2026",
+    "samples_count": 1,
+    "format_version": "1.0"
+  },
+  "peak_usage": {},
+  "samples": [
+    {
+      "timestamp": 1.0
+    }
+  ]
+}
